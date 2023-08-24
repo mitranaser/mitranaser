@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is mitra, I'm a cs student and junior frontend developer.
+
+- 🌱 I’m currently learning React.js, typescript and software engineering
 <!--
 **mitranaser/mitranaser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
